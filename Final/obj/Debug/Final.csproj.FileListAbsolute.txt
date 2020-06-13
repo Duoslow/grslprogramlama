@@ -1,0 +1,13 @@
+D:\Desktop\Finaller\Görsel\Final\bin\Debug\Final.exe.config
+D:\Desktop\Finaller\Görsel\Final\bin\Debug\Final.exe
+D:\Desktop\Finaller\Görsel\Final\bin\Debug\Final.pdb
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.csprojAssemblyReference.cache
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.Form1.resources
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.exe
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.pdb
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.Form2.resources
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.Form3.resources
+D:\Desktop\Finaller\Görsel\Final\obj\Debug\Final.Form4.resources
